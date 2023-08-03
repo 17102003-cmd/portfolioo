@@ -1,0 +1,83 @@
+<html>
+<head><title>Enclyopedia</title>
+<style>
+a {
+  text-decoration: none;
+}
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+ background : yellow;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+</style>
+</head>
+<body bgcolor="lightgray">
+<center><h1>ENCLYOPEDIA</h1></center>
+<center>
+<table>
+<tr>
+<td><a href="index.html"><b>HOME</b></a></td>
+<td><a href="nationalparks.html"><b>NATIONAL PARKS IN MAHARASHTRA</b></a></td>
+<td><a href="forts.html"><b>FORTS IN MHARASHTRA</b></a></td>
+<td><a href="animals.html"><b>ANIMALS IN MHARASHTRA</b></a></td>
+<td><a href="food.html"><b>FOOD IN MHARASHTRA</b></a></td>
+<td><a href="music.html"><b>MUSIC IN MHARASHTRA</b></a></td>
+<td><a href="birds.html"><b>BIRDS IN MHARASHTRA</b></a></td>
+</tr>
+</table>
+</center>					
+<center>
+<table>
+<tr>
+<td>
+<img src="shikra.jpg" height="300px" width="300px"/>
+</td>
+
+<td>
+<p align="justify" style="font-size:50px">SHIKRA</p>
+<p align="justify" style= "font-size:20px">The shikra (Accipiter badius) is a small bird of prey in the family Accipitridae found widely distributed in Asia and Africa where it is also called the little banded goshawk. The African forms may represent a separate species but have usually been considered as subspecies of the shikra. The shikra is very similar in appearance to other sparrowhawk species including the Chinese goshawk and Eurasian sparrowhawk. They have a sharp two note call and have the typical flap and glide flight. Their calls are imitated by drongos and the common hawk-cuckoo resembles it in plumage.</p>
+</td>
+</tr>
+<tr>
+<td>
+<img src="CAVE.jpg" height="300px" width="300px"/>
+</td>
+
+<td>
+<p align="justify" style="font-size:50px">CAVE PAINTING</p>
+<p align="justify" style="font-size:20px">Almost all early painting in India survives in caves, as no buildings from ancient India survive, and though these were probably often painted, the work has been lost.[citation needed] The history of cave paintings in India or rock art range from drawings and paintings from prehistoric times, beginning in the caves of Central India, typified by those at the Bhimbetka rock shelters from around 10,000 BP, to elaborate frescoes at sites such as the rock-cut artificial caves at Ajanta and Ellora, extending as late as the 10th – 12th century BP.</p>
+</td>	
+</tr>
+<tr>
+<td>
+<img src="MUNIA.jpg" height="300px" width="300px"/>
+</td>
+
+<td>
+<p align="justify" style="font-size:50px">SCALY-BREASTED MUNIA</p>
+<p align="justify" style="font-size:20px">The scaly-breasted munia or spotted munia (Lonchura punctulata), known in the pet trade as nutmeg mannikin or spice finch, is a sparrow-sized estrildid finch native to tropical Asia. A species of the genus Lonchura, it was formally described and named by Carl Linnaeus in 1758. Its name is based on the distinct scale-like feather markings on the breast and belly. The adult is brown above and has a dark conical bill. The species has 11 subspecies across their range and differ slightly in size and colour.</p>
+</td>	
+</tr>
+<tr>
+<td>
+<img src="PIRNIA.jpg" height="300px" width="300px"/>
+</td>
+
+<td>
+<p align="justify" style="font-size:50px">ASHY PRINIA</p>
+<p align="justify" style="font-size:20px">The ashy prinia or ashy wren-warbler (Prinia socialis) is a small warbler in the family Cisticolidae.This prinia is a resident breeder in the Indian Subcontinent, ranging across most of India, Nepal, Bangladesh, Bhutan, Sri Lanka and western Myanmar. It is a common bird in urban gardens and farmland in many parts of India and its small size, distinctive colours and upright tail make it easy to identify. The northern populations have a rufous rump and back and have a distinct breeding and non-breeding plumage while other populations lack such variation.</p>
+</td>	
+</tr>
+</table>
+</center>
+</body>
+</html>
